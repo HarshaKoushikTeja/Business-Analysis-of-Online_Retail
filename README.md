@@ -425,8 +425,8 @@ Please download `Online_Retail.xlsx` and place it in the project root directory.
 **👨‍💻 Harsha Koushik Teja Aila**<br>
 **📧 harshaus33@gmail.com**
 
-![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/HarshaKoushikTeja)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/aila-harsha-koushik-teja)
 
 **Project Type**: ![Academic](https://img.shields.io/badge/Academic-Project-blue) ![Portfolio](https://img.shields.io/badge/Portfolio-Project-green)  
 **Course**: DSE501 by Prof. Rong Pan - Data Science & Engineering  
